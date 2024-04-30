@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//pl21546160.highcpmgate.com/6c/9c/ca/6c9cca2344310fc5890c46b7c2e6c2ca.js';
+script.src = '//pl21563988.highcpmgate.com/8a/eb/81/8aeb81d3235b289d95b370dedd3194ff.js';
 
 // Agregar el elemento <script> al final del body
 document.body.appendChild(script);
